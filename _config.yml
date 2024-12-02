@@ -5,5 +5,7 @@ show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: our_README
-    url: our_README
+  - title: Example
+    url: example
+  - title: Other Page
+    url: other_page
